@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Shehan Nadeesha - AI Engineer & Full-Stack Developer" width="100%"/>
+<img src="assets/header.svg" alt="Shehan Nadeesha - AI/ML Engineer &  Developer" width="100%"/>
 
 <br/>
 
