@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" role="img" aria-label="Kasala.Lk">
+<defs><linearGradient id="pg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060a1a"/><stop offset="1" stop-color="#120a26"/></linearGradient></defs>
+<rect width="1000" height="210" rx="16" fill="url(#pg)" stroke="#1e293b"/>
+<text x="30" y="40" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#f1f5f9">Kasala.Lk</text>
+<text x="30" y="62" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="12.5" fill="#94a3b8">ML-powered garbage-collection demand prediction for Sri Lankan cities</text>
+<line x1="190" y1="128" x2="232" y2="128" stroke="#38bdf8" stroke-opacity=".55" stroke-width="2" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" values="24;0" dur="1.2s" repeatCount="indefinite"/></line>
+<circle r="4" fill="#f472b6"><animateMotion dur="2.2s" begin="0.00s" repeatCount="indefinite" path="M190,128 L232,128"/><animate attributeName="opacity" values="0;1;1;0" dur="2.2s" begin="0.00s" repeatCount="indefinite"/></circle>
+<circle r="4" fill="#f472b6"><animateMotion dur="2.2s" begin="1.10s" repeatCount="indefinite" path="M190,128 L232,128"/><animate attributeName="opacity" values="0;1;1;0" dur="2.2s" begin="1.10s" repeatCount="indefinite"/></circle>
+<line x1="382" y1="128" x2="425" y2="128" stroke="#38bdf8" stroke-opacity=".55" stroke-width="2" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" values="24;0" dur="1.2s" repeatCount="indefinite"/></line>
+<circle r="4" fill="#f472b6"><animateMotion dur="2.2s" begin="0.55s" repeatCount="indefinite" path="M382,128 L425,128"/><animate attributeName="opacity" values="0;1;1;0" dur="2.2s" begin="0.55s" repeatCount="indefinite"/></circle>
+<circle r="4" fill="#f472b6"><animateMotion dur="2.2s" begin="1.65s" repeatCount="indefinite" path="M382,128 L425,128"/><animate attributeName="opacity" values="0;1;1;0" dur="2.2s" begin="1.65s" repeatCount="indefinite"/></circle>
+<line x1="575" y1="128" x2="618" y2="128" stroke="#38bdf8" stroke-opacity=".55" stroke-width="2" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" values="24;0" dur="1.2s" repeatCount="indefinite"/></line>
+<circle r="4" fill="#f472b6"><animateMotion dur="2.2s" begin="1.10s" repeatCount="indefinite" path="M575,128 L618,128"/><animate attributeName="opacity" values="0;1;1;0" dur="2.2s" begin="1.10s" repeatCount="indefinite"/></circle>
+<circle r="4" fill="#f472b6"><animateMotion dur="2.2s" begin="2.20s" repeatCount="indefinite" path="M575,128 L618,128"/><animate attributeName="opacity" values="0;1;1;0" dur="2.2s" begin="2.20s" repeatCount="indefinite"/></circle>
+<line x1="768" y1="128" x2="810" y2="128" stroke="#38bdf8" stroke-opacity=".55" stroke-width="2" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" values="24;0" dur="1.2s" repeatCount="indefinite"/></line>
+<circle r="4" fill="#f472b6"><animateMotion dur="2.2s" begin="1.65s" repeatCount="indefinite" path="M768,128 L810,128"/><animate attributeName="opacity" values="0;1;1;0" dur="2.2s" begin="1.65s" repeatCount="indefinite"/></circle>
+<circle r="4" fill="#f472b6"><animateMotion dur="2.2s" begin="2.75s" repeatCount="indefinite" path="M768,128 L810,128"/><animate attributeName="opacity" values="0;1;1;0" dur="2.2s" begin="2.75s" repeatCount="indefinite"/></circle>
+<g><rect x="40" y="97" width="150" height="62" rx="12" fill="#0b1426" stroke="#38bdf8" stroke-width="1.5"><animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text x="115" y="124" text-anchor="middle" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Data</text>
+<text x="115" y="144" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="10.5" fill="#94a3b8">weather · events · season</text>
+<text x="52" y="113" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="10" fill="#38bdf8">01</text></g>
+<g><rect x="232" y="97" width="150" height="62" rx="12" fill="#0b1426" stroke="#38bdf8" stroke-width="1.5"><animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="0.5s" repeatCount="indefinite"/></rect>
+<text x="308" y="124" text-anchor="middle" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">ML Model</text>
+<text x="308" y="144" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="10.5" fill="#94a3b8">scikit-learn</text>
+<text x="244" y="113" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="10" fill="#38bdf8">02</text></g>
+<g><rect x="425" y="97" width="150" height="62" rx="12" fill="#0b1426" stroke="#38bdf8" stroke-width="1.5"><animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="1.0s" repeatCount="indefinite"/></rect>
+<text x="500" y="124" text-anchor="middle" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">FastAPI</text>
+<text x="500" y="144" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="10.5" fill="#94a3b8">prediction API</text>
+<text x="437" y="113" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="10" fill="#38bdf8">03</text></g>
+<g><rect x="618" y="97" width="150" height="62" rx="12" fill="#0b1426" stroke="#38bdf8" stroke-width="1.5"><animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="1.5s" repeatCount="indefinite"/></rect>
+<text x="692" y="124" text-anchor="middle" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Supabase</text>
+<text x="692" y="144" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="10.5" fill="#94a3b8">storage</text>
+<text x="630" y="113" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="10" fill="#38bdf8">04</text></g>
+<g><rect x="810" y="97" width="150" height="62" rx="12" fill="#0b1426" stroke="#38bdf8" stroke-width="1.5"><animate attributeName="stroke-opacity" values="1;.35;1" dur="3s" begin="2.0s" repeatCount="indefinite"/></rect>
+<text x="885" y="124" text-anchor="middle" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Next.js</text>
+<text x="885" y="144" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="10.5" fill="#94a3b8">zones · routes · forecast</text>
+<text x="822" y="113" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="10" fill="#38bdf8">05</text></g>
+</svg>

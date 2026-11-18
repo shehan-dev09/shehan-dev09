@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" width="880" height="300" role="img" aria-label="Terminal intro">
+<defs><linearGradient id="tb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1f2937"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
+<rect width="880" height="300" rx="14" fill="#0b1020" stroke="#1f2a44"/>
+<path d="M0 14a14 14 0 0 1 14-14h852a14 14 0 0 1 14 14v28H0z" fill="url(#tb)"/>
+<circle cx="26" cy="21" r="6.5" fill="#ff5f56"/>
+<circle cx="48" cy="21" r="6.5" fill="#ffbd2e"/>
+<circle cx="70" cy="21" r="6.5" fill="#27c93f"/>
+<text x="440.0" y="26" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="13" fill="#94a3b8">shehan@portfolio: ~</text>
+<clipPath id="c0"><rect x="30" y="62" width="0" height="30"><animate attributeName="width" values="0;0;86;86;0" keyTimes="0;0.0250;0.0938;0.97;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="30" y="82" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="17" fill="#e2e8f0" clip-path="url(#c0)">$ whoami</text>
+<clipPath id="o0"><rect x="30" y="88" width="0" height="26"><animate attributeName="width" values="0;0;504;504;0" keyTimes="0;0.1062;0.1812;0.97;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="30" y="108" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="16" fill="#7dd3fc" clip-path="url(#o0)">shehan_nadeesha  //  AI Engineer &amp; Full-Stack Dev</text>
+<clipPath id="c1"><rect x="30" y="116" width="0" height="30"><animate attributeName="width" values="0;0;198;198;0" keyTimes="0;0.2375;0.3063;0.97;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="30" y="136" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="17" fill="#e2e8f0" clip-path="url(#c1)">$ cat education.txt</text>
+<clipPath id="o1"><rect x="30" y="142" width="0" height="26"><animate attributeName="width" values="0;0;422;422;0" keyTimes="0;0.3188;0.3938;0.97;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="30" y="162" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="16" fill="#c4b5fd" clip-path="url(#o1)">BSc (Hons) IT · AI specialisation · SLIIT</text>
+<clipPath id="c2"><rect x="30" y="170" width="0" height="30"><animate attributeName="width" values="0;0;147;147;0" keyTimes="0;0.4500;0.5188;0.97;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="30" y="190" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="17" fill="#e2e8f0" clip-path="url(#c2)">$ ls projects/</text>
+<clipPath id="o2"><rect x="30" y="196" width="0" height="26"><animate attributeName="width" values="0;0;443;443;0" keyTimes="0;0.5312;0.6062;0.97;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="30" y="216" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="16" fill="#f9a8d4" clip-path="url(#o2)">kasala.lk/   linkedin-ai-agent/   serendib/</text>
+<clipPath id="c3"><rect x="30" y="224" width="0" height="30"><animate attributeName="width" values="0;0;188;188;0" keyTimes="0;0.6625;0.7312;0.97;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="30" y="244" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="17" fill="#e2e8f0" clip-path="url(#c3)">$ python status.py</text>
+<clipPath id="o3"><rect x="30" y="250" width="0" height="26"><animate attributeName="width" values="0;0;473;473;0" keyTimes="0;0.7437;0.8187;0.97;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="30" y="270" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="16" fill="#86efac" clip-path="url(#o3)">✔ shipping real-world AI · open to internships</text>
+<rect x="30" y="268" width="10" height="20" fill="#38bdf8"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
